@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "orlandomagic.aternos.me:28046",
+    "ip": "orlandomagic.aternos.me",
     "port": 28046,
     "version": "",
     "try-creative": false
